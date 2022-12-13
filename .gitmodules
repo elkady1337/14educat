@@ -1,0 +1,4 @@
+[submodule "elkady1337/EDUCAT"]
+	path = elkady1337/EDUCAT
+	url = git@github.com:elkady1337/EDUCAT.git
+	branch = main
